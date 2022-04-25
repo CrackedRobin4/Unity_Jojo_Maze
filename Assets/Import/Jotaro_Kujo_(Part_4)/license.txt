@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jotaro Kujo (Part 4)
+* source:	https://sketchfab.com/3d-models/jotaro-kujo-part-4-0ccef85c60cd4644836804bb18f3325b
+* author:	maisth (https://sketchfab.com/maisth)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jotaro Kujo (Part 4)" (https://sketchfab.com/3d-models/jotaro-kujo-part-4-0ccef85c60cd4644836804bb18f3325b) by maisth (https://sketchfab.com/maisth) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
